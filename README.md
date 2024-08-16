@@ -1,0 +1,1 @@
+# <div align="center" style="color: #f41a79">🔏 Love Encriptador
