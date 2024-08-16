@@ -18,7 +18,7 @@
 
 
 * Cifrado de Texto: Los usuarios pueden ingresar un texto en la página web, seleccionar un desplazamiento (en el caso de un cifrado César) y ver el texto transformado en su forma cifrada. </li>
-* Descifrado de Texto: De manera similar, los usuarios pueden ingresar un texto cifrado y descifrarlo utilizando el desplazamiento correcto para revelar el mensaje original.</li>
+* Descifrado de Texto: De manera similar, los usuarios pueden ingresar un texto cifrado y descifrarlo utilizando la contraseña correcta para revelar el mensaje original.</li>
 
 <br/>  
 
