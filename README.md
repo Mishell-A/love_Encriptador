@@ -20,3 +20,17 @@
 * Cifrado de Texto: Los usuarios pueden ingresar un texto en la página web, seleccionar un desplazamiento (en el caso de un cifrado César) y ver el texto transformado en su forma cifrada. </li>
 * Descifrado de Texto: De manera similar, los usuarios pueden ingresar un texto cifrado y descifrarlo utilizando el desplazamiento correcto para revelar el mensaje original.</li>
 
+<br/>  
+
+## <div> 🚀 Despliegue </div>
+
+#### Puedes ver el proyecto desplegado en este [enlace](https://mishell-a.github.io/proyecto_II/).
+
+<br/>  
+
+## <div> 🔨  Stack </div>
+
+#### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+<br/>
