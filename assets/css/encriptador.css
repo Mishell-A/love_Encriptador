@@ -42,7 +42,7 @@ button {
   text-align: center;
   width: 50%;
   transition: ease-out 0.5s;
-  margin: 20px;
+  margin: 25px;
   border-radius: 15px;
   background-color: #950f30;
   color: #fff;
@@ -54,7 +54,7 @@ button {
 }
 
 #btn-copiar {
-  margin: 20px 0 0 0;
+  margin: 25px 0 0 0;
 }
 
 .text-in,
@@ -84,4 +84,31 @@ textarea {
 footer {
   color: #000000;
   text-align: center;
+  background-color: rgba(255, 255, 255, 0.164);
+  width: 100%;
+  margin-top: 40px;
+}
+
+footer > p {
+  margin: 0;
+}
+
+#desplazamiento {
+  height: 30px;
+  width: 100%;
+  text-align: center;
+  margin: 10px auto;
+  border-radius: 20px;
+}
+
+form {
+  margin-top: 10px;
+}
+
+form > label {
+  color: whitesmoke;
+  background-color: #950f30;
+  border-radius: 20px;
+  padding: 5px;
+  font-size: 15px;
 }
