@@ -34,3 +34,9 @@
 
 
 <br/>
+
+## <div> 📋 Fue creado por: </div>
+
+<h3>Mishell Arroyo</h3>
+<h3>Luciana Carrasco</h3>
+<h3>Michelle Alanya</h3>
