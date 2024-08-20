@@ -36,7 +36,7 @@ Antes de usar las funciones de encriptar o desencriptar, necesitas ingresar una 
 
 - **Ubicación**: En el campo de texto ubicado entre los botones **[ ENCRIPTAR ]** y **[ DESENCRIPTAR ]**.
 - **Cómo Usarlo**:
-  1. Introduce una contraseña en el campo de texto.
+  1. Introduce una contraseña.
   2. Asegúrate de recordar la contraseña, ya que la necesitarás para desencriptar el mensaje más tarde.
 
 ## 2. Encriptar
@@ -66,7 +66,7 @@ Antes de usar las funciones de encriptar o desencriptar, necesitas ingresar una 
 
 ## Consejos de Seguridad
 
-- **Contraseña Segura**: Utiliza contraseñas fuertes y únicas para asegurar tus mensajes.
+- **Contraseña Segura**: Utiliza contraseñas únicas para asegurar tus mensajes.
 - **No Compartir Contraseña**: No compartas tu contraseña con otras personas para mantener la confidencialidad de tus mensajes.
 
 
